@@ -76,7 +76,7 @@ matlab. Run both [ino](https://github.com/Nived151/Microprocessors/blob/main/MSP
 <div style="page-break-after: always;"></div>
 
 ## TinyML
-Install [python](python.org/downloads/ "python"), [nodejs](nodejs.org/en/download "nodejs"), [Ti uniflash](www.ti.com/tool/UNIFLASH#downloads "Ti uniflash") add it to PATH & [update](https://cdn.edgeimpulse.com/firmware/ti-launchxl.zip "update") firmware by following this [tutorial](https://www.youtube.com/watch?v=NWkdxFhzwxI "tutorial") and check [drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads "check")  for ports
+Install [python](python.org/downloads/ "python"), [nodejs](nodejs.org/en/download "nodejs"), [Ti uniflash](www.ti.com/tool/UNIFLASH#downloads "Ti uniflash") add it to PATH & firmware by following this [tutorial](https://www.youtube.com/watch?v=NWkdxFhzwxI "tutorial") and check [drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads "check")  for ports
 <br/>
 
 - After installing nodeJS run the following command
